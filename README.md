@@ -31,7 +31,7 @@ This is a **learning project** created to master React fundamentals and modern f
 
 ### Live Demo
 
-(add link)
+https://tipscalculator.netlify.app/
 
 
 
